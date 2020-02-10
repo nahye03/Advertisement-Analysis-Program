@@ -1,4 +1,4 @@
-# Advertisement Analyze Program(Neuro-Marketing)
+# Advertisement Analysis Program(Neuro-Marketing)
 
 
 * 개발 기간
