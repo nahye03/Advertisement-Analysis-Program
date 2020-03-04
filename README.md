@@ -2,19 +2,19 @@
 # 광고 분석 프로그램 (뉴로 마케팅 이용)
 
 
-* 개발 기간
+### 개발 기간
 
-  - 2019/01/18 ~ 2019/02/01
-  
+- 2019/01/18 ~ 2019/02/01
+---
 
 
-* 개발자
+### 개발자
 
   - [김나혜(nahye03)](https://github.com/nahye03), [정민지(minji-o-j)](https://github.com/minji-o-j), [한나연(HanNayeoniee)](https://github.com/HanNayeoniee)
   
   
 
-* 설명
+### 설명
 
   - 뉴로 마케팅을 활용한 광고 분석 프로그램.
   
