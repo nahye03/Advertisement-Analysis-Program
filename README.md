@@ -1,10 +1,10 @@
 # Advertisement Analysis Program (Neuro-Marketing)
 # 광고 분석 프로그램 (뉴로 마케팅 이용)
-
--[요약](#요약)  
--[개발 기간](#개발-기간)  
--[개발자](#개발자)  
--[설명](#설명)  
+![image](https://img.shields.io/badge/language-C%23-blue?style=plat&logo=Visual-Studio)  
+[요약](#요약)  
+[개발 기간](#개발-기간)  
+[개발자](#개발자)  
+[설명](#설명)  
 
 ---
 ### 요약
@@ -25,6 +25,8 @@
 
 - [김나혜(nahye03)](https://github.com/nahye03), [정민지(minji-o-j)](https://github.com/minji-o-j), [한나연(HanNayeoniee)](https://github.com/HanNayeoniee)
 
+---
+### 사용 하드웨어
 ---
   
 
