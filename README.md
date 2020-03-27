@@ -5,7 +5,7 @@
 [개발 기간](#개발-기간)  
 [개발자](#개발자)  
 [설명](#설명)  
-
+[결과](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
 ---
 ### 요약
 - 뉴로 마케팅을 활용한 광고 분석 프로그램.
@@ -32,7 +32,8 @@
 
 ### 설명
 
-  - 긍/부정도 판단 기준
-    - 좌반구와 우반구
+---
+### 결과
 
+[결과 이미지 보기!!](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
 
