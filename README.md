@@ -6,6 +6,7 @@
 [개발자](#개발자)  
 [설명](#설명)  
 [결과](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
+
 ---
 ### 요약
 - 뉴로 마케팅을 활용한 광고 분석 프로그램.
