@@ -37,6 +37,12 @@
 
 ---
 ### 사용 하드웨어
+- [EMOTIV EPOC+ 14 Channel Mobile Brainwear®](https://www.emotiv.com/product/emotiv-epoc-14-channel-mobile-eeg/?gclid=CjwKCAjwvZv0BRA8EiwAD9T2VfQbwRLqpyAp6D0mM0hGsmNmKJnzB6Lr0rptqZTDyOw-YRXm3BlRXxoCc18QAvD_BwE)
+
+![image](https://user-images.githubusercontent.com/45448731/78367153-962d9700-75fc-11ea-9b82-33d49da8e792.png)  
+
+- 14 채널(AF3, F7, F3, FC5, T7, P7, O1, O2, P8, T8, FC6, F4, F8, AF4)의 뇌파 측정 가능
+- 전도성 물질(식염수 등)이 필요
 ---
   
 
