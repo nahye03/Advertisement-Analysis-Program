@@ -5,7 +5,7 @@
 [필요성](#필요성)  
 [개발 기간](#개발-기간)  
 [개발자](#개발자)  
-[설명](#설명)  
+[사용 하드웨어](#사용-하드웨어)  
 [결과](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
 
 ---
@@ -29,8 +29,6 @@
 
 - 2019/01/18 ~ 2019/02/01
 ---
-
-
 ### 개발자
 
 - [김나혜(nahye03)](https://github.com/nahye03), [정민지(minji-o-j)](https://github.com/minji-o-j), [한나연(HanNayeoniee)](https://github.com/HanNayeoniee)
@@ -44,9 +42,7 @@
 - 14 채널(AF3, F7, F3, FC5, T7, P7, O1, O2, P8, T8, FC6, F4, F8, AF4)의 뇌파 측정 가능
 - 전도성 물질(식염수 등)이 필요
 ---
-  
-
-### 설명
+### 기준 설정 방법
 
 ---
 ### 결과
