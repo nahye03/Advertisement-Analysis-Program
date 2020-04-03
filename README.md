@@ -13,7 +13,7 @@
 [실제 구현 화면(wiki)](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
 
 ---
-## 요약
+## >요약
 - 뉴로 마케팅을 활용한 광고 분석 프로그램.
 
 - 광고를 시청하는 동안의 사용자의 __집중도__ 와 __긍부정도__ 가 그래프로 나타남.  
