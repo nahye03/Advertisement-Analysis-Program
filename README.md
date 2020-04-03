@@ -131,7 +131,7 @@
 
 ---
 ### 결과
-![image](https://user-images.githubusercontent.com/45448731/78380862-7f447000-760f-11ea-8861-aec7bdc6a25f.png)
+![image](https://user-images.githubusercontent.com/45448731/78382454-dd725280-7611-11ea-9278-b656471edd1c.png)
 
 #### 사용자 모드
 ![image](https://user-images.githubusercontent.com/45448731/78381028-badf3a00-760f-11ea-81fd-1e7e99a9209a.png)  
@@ -146,6 +146,7 @@ __1. 분석하기__
 
 ![image](https://user-images.githubusercontent.com/45448731/78381247-0d205b00-7610-11ea-863c-6f5edb89ce69.png)  
 > 광고의 속성을 선택한다.
+<br>
 
 ![image](https://user-images.githubusercontent.com/45448731/78381387-4062ea00-7610-11ea-934d-f69d3ef76446.png)
 
@@ -153,12 +154,37 @@ __1. 분석하기__
 <br>
 
 __2. 결과 보기__  
-![image](https://user-images.githubusercontent.com/45448731/78381558-7f913b00-7610-11ea-95b0-5f7b91033b5b.png)
-> 소비자의 구매 확률에 대해 %로 나타낸다.
+![image](https://user-images.githubusercontent.com/45448731/78383116-ced86b00-7612-11ea-903a-9d0f66f786c2.png)
 
+> 소비자의 구매 확률에 대해 %로 나타낸다.
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/78383162-e6175880-7612-11ea-93fa-25fea5767ad1.png)
+
+> __초마다 집중도와 긍정도가 그래프로 나타나며, 최고 집중도 구간과 최고 긍정도 구간이 나타난다.__
 <br>
 
 #### 실험자 모드
+![image](https://user-images.githubusercontent.com/45448731/78383310-22e34f80-7613-11ea-9f8c-c67f0157ecdc.png)  
+
+__1. 실험하기__  
+![image](https://user-images.githubusercontent.com/45448731/78383735-d8ae9e00-7613-11ea-98cd-e073a5d05ac2.png)
+> 실험자 정보를 입력한다.
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/78383783-ed8b3180-7613-11ea-8239-1a4029f9e1f4.png)
+> 실험할 광고를 선택한다.
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/78383543-8bcac780-7613-11ea-8705-9ff86556770b.png)
+> 광고를 시청한다.
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/78383675-ba48a280-7613-11ea-81ce-1a16e2fe5fd3.png)
+> 실험 완료 화면
+<br>
+
+<br>
 
 ---
 ### 실제 구현 화면(wiki)
