@@ -13,7 +13,7 @@
 [실제 구현 화면(wiki)](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
 
 ---
-### 요약
+## 요약
 - 뉴로 마케팅을 활용한 광고 분석 프로그램.
 
 - 광고를 시청하는 동안의 사용자의 __집중도__ 와 __긍부정도__ 가 그래프로 나타남.  
@@ -21,7 +21,7 @@
 - __실험에 기반한 계산__ 을 통해 사용자의 집중도와 긍부정도를 고려한 __구매 확률 제시__
 
 ---
-### 필요성
+## 필요성
 - 만든 광고에 대해서 소비자의 무의식적인 반응을 광고주가 알 수 없다.
 
 - 광고주가 강조하고자 하는 이미지(긍정,부정)가 소비자에게도 잘 전달되는지 확인하고 싶다.  
@@ -29,16 +29,16 @@
 --> __소비자의 뇌파에 대한 피드백을 받음으로써 광고의 효과를 극대화하고 단점을 보완할 수 있다.__
 
 ---
-### 개발 기간
+## 개발 기간
 
 - 2019/01/18 ~ 2019/02/01
 ---
-### 개발자
+## 개발자
 
 - [김나혜(nahye03)](https://github.com/nahye03), [정민지(minji-o-j)](https://github.com/minji-o-j), [한나연(HanNayeoniee)](https://github.com/HanNayeoniee)
 
 ---
-### 사용 하드웨어
+## 사용 하드웨어
 - [EMOTIV EPOC+ 14 Channel Mobile Brainwear®](https://www.emotiv.com/product/emotiv-epoc-14-channel-mobile-eeg/?gclid=CjwKCAjwvZv0BRA8EiwAD9T2VfQbwRLqpyAp6D0mM0hGsmNmKJnzB6Lr0rptqZTDyOw-YRXm3BlRXxoCc18QAvD_BwE)
 
 ![image](https://user-images.githubusercontent.com/45448731/78367153-962d9700-75fc-11ea-9b82-33d49da8e792.png)  
@@ -50,7 +50,7 @@
 - 전력에 의한 노이즈 제거 기능
 
 ---
-### 사용 프로그램
+## 사용 프로그램
 - __Visual Studio__: 프로그래밍, 뇌파 관련 데이터 처리  
 
 - __Blend for Visual Studio__: GUI 제작  
@@ -60,23 +60,23 @@
 - __EMOTIVE application__: 실험 데이터 추출, 뇌파 감지 확인
 
 ---
-### 집중도 판단 방법
+## 집중도 판단 방법
 ![image](https://user-images.githubusercontent.com/45448731/78375633-0ee62080-7608-11ea-9486-ca595ff0f843.png)  
 - ERP(사건관련전위) 중 late cognitive component(후기 인지적 정점)인 `P300`을 이용하여  집중도를 측정한다.
 <br>
 
-#### 1. p300 측정 방법
+### 1. p300 측정 방법
 1. 1초에 128개의 뇌파 Data를 받는다.
 2. 30초를 1초 단위로 쪼갠다. --> __1초 중에 250ms-500ms 구간중 최댓값을 P300으로 정한다.__ `Data Index: 32-63`
 <br>
 
-#### 2. 변화율에 대한 정의
+### 2. 변화율에 대한 정의
 ![image](https://user-images.githubusercontent.com/45448731/78376290-0fcb8200-7609-11ea-9585-4f644493a0c0.png)  
 - R: 30초동안 측정한 Reference(중립 뇌파)의 P300의 평균 `<-30초동안 30개의 P300이 측정된다.`
 - S: 자극시 P300  
 <br>
 
-#### 3. 실험
+### 3. 실험
 1. 성공한 광고 영상과 실패한 광고 영상을 시청한다.
     - 실험 횟수: 13명*10번 = __130개의 샘플__
     - 성공 광고 영상, 실패 광고 영상 각 5개
@@ -86,7 +86,7 @@
 2. P300 기준 DB 생성
 ![image](https://user-images.githubusercontent.com/45448731/78377184-405feb80-760a-11ea-81d4-b180760fecfe.png)
 
-#### 4. Data 분석, 채널 설정
+### 4. Data 분석, 채널 설정
 - __SPSS Statistics__ 를 이용.
 
 - 성공한 광고와 실패한 광고의 모든 채널에서 집중도의 척도인 __P300의 변화율__ 값을 받아 __대응표본 T검정 (paired t-test)__ 을 함.  
@@ -98,11 +98,11 @@
 <br>
 
 ---
-### 긍/부정도 판단 방법
+## 긍/부정도 판단 방법
 
 - EEG 이용  
 
-#### 1. 긍정/부정 감성의 구분
+### 1. 긍정/부정 감성의 구분
 - 좌/우반구 대뇌피질의 비활성화 정도에 따라서 긍정/부정 감성을 구분할 수 있다.
 - 비활성 상태: ![image](https://user-images.githubusercontent.com/45448731/78378794-73a37a00-760c-11ea-98c7-34ec769fb4be.png)  
 - 활성 상태: ![image](https://user-images.githubusercontent.com/45448731/78378807-7900c480-760c-11ea-8c46-8626dac7ff45.png)  
@@ -113,7 +113,7 @@
 - 우반구가 비활성: __긍정적 감성__
 <br>
 
-#### 2. 실험
+### 2. 실험
 1. 성공한 광고 영상과 실패한 광고 영상을 시청한다.
     - 실험 횟수: 13명*10번
     - 성공 광고 영상, 실패 광고 영상 각 5개
@@ -123,17 +123,18 @@
     - __시청하신 광고의 제품에 대해 구매 의향이 있나요?__: Y/N
     - __광고 시청 동안 광고에 집중하셨나요?__: 그렇다/보통이다/아니다
     - __광고를 볼 때 전반적인 기분은 어땠나요?__: 긍정적이다/보통이다/부정적이다
-    
-#### 3. 결과 분석  
+<br>
+
+### 3. 결과 분석  
 ![image](https://user-images.githubusercontent.com/45448731/78379970-26280c80-760e-11ea-8de5-aa56650c7e1b.png)  
 - 분석 결과 `T7`과 `T8`에서 유의미한 차이를 보임.
 - 부정적임의 기준을 `T7`을 중점으로 잡고, 긍정적임의 기준을 `T8` 중점으로 설정함.
 
 ---
-### 결과
+## 결과
 ![image](https://user-images.githubusercontent.com/45448731/78382454-dd725280-7611-11ea-9278-b656471edd1c.png)
 
-#### 사용자 모드
+### 사용자 모드
 ![image](https://user-images.githubusercontent.com/45448731/78381028-badf3a00-760f-11ea-81fd-1e7e99a9209a.png)  
 <br>
 
@@ -154,6 +155,8 @@ __1. 분석하기__
 <br>
 
 __2. 결과 보기__  
+
+
 ![image](https://user-images.githubusercontent.com/45448731/78383116-ced86b00-7612-11ea-903a-9d0f66f786c2.png)
 
 > 소비자의 구매 확률에 대해 %로 나타낸다.
@@ -164,7 +167,7 @@ __2. 결과 보기__
 > __초마다 집중도와 긍정도가 그래프로 나타나며, 최고 집중도 구간과 최고 긍정도 구간이 나타난다.__
 <br>
 
-#### 실험자 모드
+### 실험자 모드
 ![image](https://user-images.githubusercontent.com/45448731/78383310-22e34f80-7613-11ea-9f8c-c67f0157ecdc.png)  
 
 __1. 실험하기__  
@@ -187,7 +190,7 @@ __1. 실험하기__
 <br>
 
 ---
-### 실제 구현 화면(wiki)
+## 실제 구현 화면(wiki)
 
 [wiki로 이동하기](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
 
