@@ -44,6 +44,9 @@
 - 14 채널(AF3, F7, F3, FC5, T7, P7, O1, O2, P8, T8, FC6, F4, F8, AF4)의 뇌파 측정 가능
 
 - 전도성 물질(식염수 등)이 필요
+
+- 전력에 의한 노이즈 제거 기능
+
 ---
 ### 사용 프로그램
 - __Visual Studio__: 프로그래밍, 뇌파 관련 데이터 처리  
@@ -95,11 +98,33 @@
 ---
 ### 긍/부정도 판단 방법
 
+- EEG 이용  
+<br>
+
 #### 1. 긍정/부정 감성의 구분
 - 좌/우반구 대뇌피질의 비활성화 정도에 따라서 긍정/부정 감성을 구분할 수 있다.
 - 비활성 상태: ![image](https://user-images.githubusercontent.com/45448731/78378794-73a37a00-760c-11ea-98c7-34ec769fb4be.png)  
-- 활성 상태: ![image](https://user-images.githubusercontent.com/45448731/78378807-7900c480-760c-11ea-8c46-8626dac7ff45.png)
+- 활성 상태: ![image](https://user-images.githubusercontent.com/45448731/78378807-7900c480-760c-11ea-8c46-8626dac7ff45.png)  
+![image](https://user-images.githubusercontent.com/45448731/78379059-caa94f00-760c-11ea-90c5-78a13cb1f07d.png)  
+> (2002_[Review] Studies of emotion - A theoretical and empirical review of psychophysiological studies of emotion)
 
+- 좌반구가 비활성: __부정적 감성__
+- 우반구가 비활성: __긍정적 감성__
+<br>
+
+#### 2. 실험
+1. 성공한 광고 영상과 실패한 광고 영상을 시청한다.
+    - 실험 횟수: 13명*10번
+    - 성공 광고 영상, 실패 광고 영상 각 5개
+    - 성공 광고와 실패 광고 기준은 뉴스를 통해 선정(실제로 매출 증가, 부적절한 광고로 기업 이미지 하락 등)  
+
+2. 각 영상 시청 후 설문조사를 진행한다.
+    - __시청하신 광고의 제품에 대해 구매 의향이 있나요?__: Y/N
+    - __광고 시청 동안 광고에 집중하셨나요?__: 그렇다/보통이다/아니다
+    - __광고를 볼 때 전반적인 기분은 어땠나요?__: 긍정적이다/보통이다/부정적이다
+    
+ 
+---
 ### 실험자 모드
 
 ---
