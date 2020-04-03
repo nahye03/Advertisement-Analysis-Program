@@ -13,7 +13,7 @@
 [실제 구현 화면(wiki)](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
 
 ---
-## >요약
+## > 요약
 - 뉴로 마케팅을 활용한 광고 분석 프로그램.
 
 - 광고를 시청하는 동안의 사용자의 __집중도__ 와 __긍부정도__ 가 그래프로 나타남.  
@@ -21,7 +21,7 @@
 - __실험에 기반한 계산__ 을 통해 사용자의 집중도와 긍부정도를 고려한 __구매 확률 제시__
 
 ---
-## >필요성
+## > 필요성
 - 만든 광고에 대해서 소비자의 무의식적인 반응을 광고주가 알 수 없다.
 
 - 광고주가 강조하고자 하는 이미지(긍정,부정)가 소비자에게도 잘 전달되는지 확인하고 싶다.  
@@ -29,16 +29,16 @@
 --> __소비자의 뇌파에 대한 피드백을 받음으로써 광고의 효과를 극대화하고 단점을 보완할 수 있다.__
 
 ---
-## 개발 기간
+## > 개발 기간
 
 - 2019/01/18 ~ 2019/02/01
 ---
-## 개발자
+## > 개발자
 
 - [김나혜(nahye03)](https://github.com/nahye03), [정민지(minji-o-j)](https://github.com/minji-o-j), [한나연(HanNayeoniee)](https://github.com/HanNayeoniee)
 
 ---
-## 사용 하드웨어
+## > 사용 하드웨어
 - [EMOTIV EPOC+ 14 Channel Mobile Brainwear®](https://www.emotiv.com/product/emotiv-epoc-14-channel-mobile-eeg/?gclid=CjwKCAjwvZv0BRA8EiwAD9T2VfQbwRLqpyAp6D0mM0hGsmNmKJnzB6Lr0rptqZTDyOw-YRXm3BlRXxoCc18QAvD_BwE)
 
 ![image](https://user-images.githubusercontent.com/45448731/78367153-962d9700-75fc-11ea-9b82-33d49da8e792.png)  
@@ -50,7 +50,7 @@
 - 전력에 의한 노이즈 제거 기능
 
 ---
-## 사용 프로그램
+## > 사용 프로그램
 - __Visual Studio__: 프로그래밍, 뇌파 관련 데이터 처리  
 
 - __Blend for Visual Studio__: GUI 제작  
@@ -60,7 +60,7 @@
 - __EMOTIVE application__: 실험 데이터 추출, 뇌파 감지 확인
 
 ---
-## 집중도 판단 방법
+## > 집중도 판단 방법
 ![image](https://user-images.githubusercontent.com/45448731/78375633-0ee62080-7608-11ea-9486-ca595ff0f843.png)  
 - ERP(사건관련전위) 중 late cognitive component(후기 인지적 정점)인 `P300`을 이용하여  집중도를 측정한다.
 <br>
@@ -98,7 +98,7 @@
 <br>
 
 ---
-## 긍/부정도 판단 방법
+## > 긍/부정도 판단 방법
 
 - EEG 이용  
 
@@ -131,7 +131,7 @@
 - 부정적임의 기준을 `T7`을 중점으로 잡고, 긍정적임의 기준을 `T8` 중점으로 설정함.
 
 ---
-## 결과
+## > 결과
 ![image](https://user-images.githubusercontent.com/45448731/78382454-dd725280-7611-11ea-9278-b656471edd1c.png)
 
 ### 사용자 모드
@@ -201,7 +201,7 @@ __2. 결과 보기__
 <br>
 
 ---
-## 실제 구현 화면(wiki)
+## > 실제 구현 화면(wiki)
 
 [wiki로 이동하기](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
 
