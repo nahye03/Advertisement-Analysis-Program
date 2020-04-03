@@ -9,7 +9,8 @@
 [사용 프로그램](#사용-프로그램)  
 [집중도 판단 방법](#집중도-판단-방법)  
 [긍/부정도 판단 방법](https://github.com/minji-o-j/Advertisement-Analysis-Program#%EA%B8%8D%EB%B6%80%EC%A0%95%EB%8F%84-%ED%8C%90%EB%8B%A8-%EB%B0%A9%EB%B2%95)  
-[결과](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
+[결과](#결과)
+[결과(wiki)](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
 
 ---
 ### 요약
@@ -126,16 +127,20 @@
 #### 3. 결과 분석  
 ![image](https://user-images.githubusercontent.com/45448731/78379970-26280c80-760e-11ea-8de5-aa56650c7e1b.png)  
 - 분석 결과 `T7`과 `T8`에서 유의미한 차이를 보임.
-- 부정적임의 기준을 `T7`을 중점으로 잡고, 긍정적임의 기준을 `T8` 중접으로 설정함.
-
----
-### 실험자 모드
-
----
-###사용자 모드
+- 부정적임의 기준을 `T7`을 중점으로 잡고, 긍정적임의 기준을 `T8` 중점으로 설정함.
 
 ---
 ### 결과
+![image](https://user-images.githubusercontent.com/45448731/78380862-7f447000-760f-11ea-8861-aec7bdc6a25f.png)
+
+#### 사용자 모드
+- 사용자는 분석하고자 하는 광고를 업로드하여 실험을 의뢰한다.
+
+
+#### 실험자 모드
+
+---
+### 결과(wiki)
 
 [결과 이미지 보기!!](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
 
