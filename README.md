@@ -81,13 +81,13 @@
 2. P300 기준 DB 생성
 ![image](https://user-images.githubusercontent.com/45448731/78377184-405feb80-760a-11ea-81d4-b180760fecfe.png)
 
-#### 4. Data 분석
+#### 4. Data 분석, 채널 설정
 - __SPSS Statistics__ 를 이용.
 
 - 성공한 광고와 실패한 광고의 모든 채널에서 집중도의 척도인 __P300의 변화율__ 값을 받아 __대응표본 T검정 (paired t-test)__ 을 함.  
 <br>
 
-![image](https://user-images.githubusercontent.com/45448731/78377623-cb40e600-760a-11ea-8c8b-2f152e5e6399.png)
+![image](https://user-images.githubusercontent.com/45448731/78378066-6afe7400-760b-11ea-90ae-f89ee7068937.png)
 <br>
 
 - 유의 확률 p가 0.05 이하일 때의 채널: __전두엽에 위치한 `FC5`__
