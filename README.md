@@ -171,6 +171,8 @@ __2. 결과 보기__
 ![image](https://user-images.githubusercontent.com/45448731/78383310-22e34f80-7613-11ea-9f8c-c67f0157ecdc.png)  
 
 __1. 실험하기__  
+<br>
+
 ![image](https://user-images.githubusercontent.com/45448731/78383735-d8ae9e00-7613-11ea-98cd-e073a5d05ac2.png)
 > 실험자 정보를 입력한다.
 <br>
@@ -187,6 +189,15 @@ __1. 실험하기__
 > 실험 완료 화면
 <br>
 
+
+__2. 결과 보기__
+<br>
+![image](https://user-images.githubusercontent.com/45448731/78384259-ce40d400-7614-11ea-8ee8-2947265ac972.png)
+> 실험자가 구매할 확률에 대해 %로 나타낸다.
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/78384336-f6303780-7614-11ea-835f-4d06ea430196.png)
+> __초마다 집중도와 긍정도가 그래프로 나타나며, 최고 집중도 구간과 최고 긍정도 구간이 나타난다.__
 <br>
 
 ---
