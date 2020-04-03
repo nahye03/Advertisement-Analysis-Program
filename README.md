@@ -6,6 +6,7 @@
 [개발 기간](#개발-기간)  
 [개발자](#개발자)  
 [사용 하드웨어](#사용-하드웨어)  
+[사용 프로그램](#사용-프로그램)
 [결과](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
 
 ---
@@ -40,7 +41,18 @@
 ![image](https://user-images.githubusercontent.com/45448731/78367153-962d9700-75fc-11ea-9b82-33d49da8e792.png)  
 
 - 14 채널(AF3, F7, F3, FC5, T7, P7, O1, O2, P8, T8, FC6, F4, F8, AF4)의 뇌파 측정 가능
+
 - 전도성 물질(식염수 등)이 필요
+---
+### 사용 프로그램
+- __Visual Studio__: 프로그래밍, 뇌파 관련 데이터 처리  
+
+- __Blend for Visual Studio__: GUI 제작  
+
+- __SPSS Statistics__: 기준 채널 선정, 데이터 분석  
+
+- __EMOTIVE application__: 실험 데이터 추출, 뇌파 감지 확인
+
 ---
 ### 기준 설정 방법
 
