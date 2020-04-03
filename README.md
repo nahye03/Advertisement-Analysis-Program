@@ -10,7 +10,7 @@
 [집중도 판단 방법](#집중도-판단-방법)  
 [긍/부정도 판단 방법](https://github.com/minji-o-j/Advertisement-Analysis-Program#%EA%B8%8D%EB%B6%80%EC%A0%95%EB%8F%84-%ED%8C%90%EB%8B%A8-%EB%B0%A9%EB%B2%95)  
 [결과](#결과)
-[결과(wiki)](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
+[실제 구현 화면(wiki)](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
 
 ---
 ### 요약
@@ -18,7 +18,7 @@
 
 - 광고를 시청하는 동안의 사용자의 __집중도__ 와 __긍부정도__ 가 그래프로 나타남.  
 
-- 실험에 기반한 계산을 통해 사용자의 집중도와 긍부정도를 고려한 구매 확률 제시
+- __실험에 기반한 계산__ 을 통해 사용자의 집중도와 긍부정도를 고려한 __구매 확률 제시__
 
 ---
 ### 필요성
@@ -134,13 +134,34 @@
 ![image](https://user-images.githubusercontent.com/45448731/78380862-7f447000-760f-11ea-8861-aec7bdc6a25f.png)
 
 #### 사용자 모드
-- 사용자는 분석하고자 하는 광고를 업로드하여 실험을 의뢰한다.
+![image](https://user-images.githubusercontent.com/45448731/78381028-badf3a00-760f-11ea-81fd-1e7e99a9209a.png)  
+<br>
 
+__1. 분석하기__  
+
+> 사용자는 __`분석하기`__ 에서 분석하고자 하는 광고를 업로드하여 실험을 의뢰한다.  
+
+
+![image](https://user-images.githubusercontent.com/45448731/78381120-dcd8bc80-760f-11ea-8395-40d931073f53.png)
+
+![image](https://user-images.githubusercontent.com/45448731/78381247-0d205b00-7610-11ea-863c-6f5edb89ce69.png)  
+> 광고의 속성을 선택한다.
+
+![image](https://user-images.githubusercontent.com/45448731/78381387-4062ea00-7610-11ea-934d-f69d3ef76446.png)
+
+> 의뢰 완료 화면
+<br>
+
+__2. 결과 보기__  
+![image](https://user-images.githubusercontent.com/45448731/78381558-7f913b00-7610-11ea-95b0-5f7b91033b5b.png)
+> 소비자의 구매 확률에 대해 %로 나타낸다.
+
+<br>
 
 #### 실험자 모드
 
 ---
-### 결과(wiki)
+### 실제 구현 화면(wiki)
 
-[결과 이미지 보기!!](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
+[wiki로 이동하기](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
 
