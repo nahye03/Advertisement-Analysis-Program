@@ -134,7 +134,7 @@
 ## > 결과
 ![image](https://user-images.githubusercontent.com/45448731/78382454-dd725280-7611-11ea-9278-b656471edd1c.png)
 
-> ### 사용자 모드
+### 사용자 모드
 ![image](https://user-images.githubusercontent.com/45448731/78381028-badf3a00-760f-11ea-81fd-1e7e99a9209a.png)  
 <br>
 
@@ -167,7 +167,7 @@ __2. 결과 보기__
 > __초마다 집중도와 긍정도가 그래프로 나타나며, 최고 집중도 구간과 최고 긍정도 구간이 나타난다.__
 <br>
 
-> ### 실험자 모드
+### 실험자 모드
 ![image](https://user-images.githubusercontent.com/45448731/78383310-22e34f80-7613-11ea-9f8c-c67f0157ecdc.png)  
 
 __1. 실험하기__  
