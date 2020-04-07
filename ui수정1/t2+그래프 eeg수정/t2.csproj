@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BBD678B9-683F-4947-B38B-CAE671FB8931}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>t2</RootNamespace>
+    <AssemblyName>t2</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Controls.DataVisualization.Toolkit">
+      <HintPath>..\그래프!!!\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WPFToolkit">
+      <HintPath>..\그래프!!!\WpfToolkitChart\WpfToolkitChart\WpfToolkitChart\bin\Debug\WPFToolkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Analysis.xaml.cs">
+      <DependentUpon>Analysis.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Analysis3.xaml.cs">
+      <DependentUpon>Analysis3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Checkbox.xaml.cs">
+      <DependentUpon>Checkbox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Expermode0.xaml.cs">
+      <DependentUpon>Expermode0.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ExperOpen.xaml.cs">
+      <DependentUpon>ExperOpen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ExperResult.xaml.cs">
+      <DependentUpon>ExperResult.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Result.xaml.cs">
+      <DependentUpon>Result.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Usermode1.xaml.cs">
+      <DependentUpon>Usermode1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserOpen.xaml.cs">
+      <DependentUpon>UserOpen.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Ad1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ad10.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ad2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ad3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ad4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ad5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ad6.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ad7.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ad8.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Ad9.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Analysis.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Analysis3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Checkbox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Expermode0.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Expermode1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Expermode2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Expermode3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ExperOpen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ExperResult.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="Ad1.xaml.cs">
+      <DependentUpon>Ad1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ad10.xaml.cs">
+      <DependentUpon>Ad10.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ad2.xaml.cs">
+      <DependentUpon>Ad2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ad3.xaml.cs">
+      <DependentUpon>Ad3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ad4.xaml.cs">
+      <DependentUpon>Ad4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ad5.xaml.cs">
+      <DependentUpon>Ad5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ad6.xaml.cs">
+      <DependentUpon>Ad6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ad7.xaml.cs">
+      <DependentUpon>Ad7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ad8.xaml.cs">
+      <DependentUpon>Ad8.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Ad9.xaml.cs">
+      <DependentUpon>Ad9.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Expermode1.xaml.cs">
+      <DependentUpon>Expermode1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Expermode2.xaml.cs">
+      <DependentUpon>Expermode2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Expermode3.xaml.cs">
+      <DependentUpon>Expermode3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Result.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Usermode1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserOpen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\info.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\choice_ad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\usermode1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\mainmode.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\emotion.jpg" />
+    <Resource Include="image\type.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\userlast.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\experlast.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\expermode.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\analysis_ch.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\experOpen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\userOpen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\experResult.jpg" />
+    <Resource Include="image\userResult.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\1b_user3,4.jpg" />
+    <Resource Include="image\1b_user3,4_img_x.jpg" />
+    <Resource Include="image\commercial_Mouseover.png" />
+    <Resource Include="image\commercial_O_choose.png" />
+    <Resource Include="image\commercial_X_choose.png" />
+    <Resource Include="image\negative_Mouseover.png" />
+    <Resource Include="image\negative_O_choose.png" />
+    <Resource Include="image\negative_X_choose.png" />
+    <Resource Include="image\positive_Mouseover.png" />
+    <Resource Include="image\positive_O_choose.png" />
+    <Resource Include="image\positive_X_choose.png" />
+    <Resource Include="image\public_Mouseover.png" />
+    <Resource Include="image\public_O_choose.png" />
+    <Resource Include="image\public_X_choose.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
