@@ -1,0 +1,125 @@
+﻿    <Window x:Class="t2.Checkbox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:t2"
+        mc:Ignorable="d"
+        Title="MainWindow" ResizeMode="NoResize" WindowState="Maximized" Width="1537.6" Height="864.8">
+        <Window.Resources>
+            <Storyboard x:Key="pos_check">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="positive_Click">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Key="pos_mouse">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="positive_Mouseover">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Key="neg_check">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="negative_Click">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Key="neg_mouse">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="negative_Mouseover">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Key="pub_check">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="public_Click">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Key="pub_mouse">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="public_Mouseover">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Key="com_check">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="commercial_Click">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Key="com_mouse">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="commercial_Mouseover">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+        </Window.Resources>
+        <Window.Triggers>
+            <EventTrigger RoutedEvent="ToggleButton.Checked" SourceName="positive_checkbox">
+                <BeginStoryboard x:Name="pos_check_BeginStoryboard" Storyboard="{StaticResource pos_check}"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="ToggleButton.Unchecked" SourceName="positive_checkbox">
+                <StopStoryboard BeginStoryboardName="pos_check_BeginStoryboard"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="UIElement.MouseEnter" SourceName="positive_checkbox">
+                <BeginStoryboard x:Name="pos_mouse_BeginStoryboard" Storyboard="{StaticResource pos_mouse}"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="UIElement.MouseLeave" SourceName="positive_checkbox">
+                <StopStoryboard BeginStoryboardName="pos_mouse_BeginStoryboard"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="ToggleButton.Checked" SourceName="negative_checkbox">
+                <BeginStoryboard x:Name="neg_check_BeginStoryboard" Storyboard="{StaticResource neg_check}"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="ToggleButton.Unchecked" SourceName="negative_checkbox">
+                <StopStoryboard BeginStoryboardName="neg_check_BeginStoryboard"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="UIElement.MouseEnter" SourceName="negative_checkbox">
+                <BeginStoryboard x:Name="neg_mouse_BeginStoryboard" Storyboard="{StaticResource neg_mouse}"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="UIElement.MouseLeave" SourceName="negative_checkbox">
+                <StopStoryboard BeginStoryboardName="neg_mouse_BeginStoryboard"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="ToggleButton.Checked" SourceName="public_checkbox">
+                <BeginStoryboard x:Name="pub_check_BeginStoryboard" Storyboard="{StaticResource pub_check}"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="ToggleButton.Unchecked" SourceName="public_checkbox">
+                <StopStoryboard BeginStoryboardName="pub_check_BeginStoryboard"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="UIElement.MouseEnter" SourceName="public_checkbox">
+                <BeginStoryboard x:Name="pub_mouse_BeginStoryboard" Storyboard="{StaticResource pub_mouse}"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="UIElement.MouseLeave" SourceName="public_checkbox">
+                <StopStoryboard BeginStoryboardName="pub_mouse_BeginStoryboard"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="ToggleButton.Checked" SourceName="commercial_checkbox">
+                <BeginStoryboard x:Name="com_check_BeginStoryboard" Storyboard="{StaticResource com_check}"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="ToggleButton.Unchecked" SourceName="commercial_checkbox">
+                <StopStoryboard BeginStoryboardName="com_check_BeginStoryboard"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="UIElement.MouseEnter" SourceName="commercial_checkbox">
+                <BeginStoryboard x:Name="com_mouse_BeginStoryboard" Storyboard="{StaticResource com_mouse}"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="UIElement.MouseLeave" SourceName="commercial_checkbox">
+                <StopStoryboard BeginStoryboardName="com_mouse_BeginStoryboard"/>
+            </EventTrigger>
+        </Window.Triggers>
+
+        <Grid>
+            <Grid.Background>
+                <ImageBrush ImageSource="image/1b_user3,4_img_x.jpg"/>
+            </Grid.Background>
+            <Image x:Name="positive_non_click" Margin="519.1,164.3,831.9,461.9" Source="image/positive_X_choose.png" Stretch="Fill" Width="185" Height="185"/>
+            <Image x:Name="positive_Mouseover" Margin="519.1,164.3,831.9,461.9" Source="image/positive_Mouseover.png" Stretch="Fill" Opacity="0" Width="185" Height="185"/>
+            <Image x:Name="positive_Click" Margin="519.1,164.3,831.9,461.9" Source="image/positive_O_choose.png" Stretch="Fill" Opacity="0" Width="185" Height="185"/>
+            <Image x:Name="negative_non_click" Margin="813.1,164.3,542.7,461.9" Source="image/negative_X_choose.png" Stretch="Fill" Width="185" Height="185"/>
+            <Image x:Name="negative_Mouseover" Margin="813.1,164.3,542.7,461.9" Source="image/negative_Mouseover.png" Stretch="Fill" Opacity="0" Width="185" Height="185"/>
+            <Image x:Name="negative_Click" Margin="813.1,164.3,542.7,461.9" Source="image/negative_O_choose.png" Stretch="Fill" Opacity="0" Width="185" Height="185"/>
+            <Image x:Name="public_non_click" Margin="519.1,522.3,836.7,103.9" Source="image/public_X_choose.png" Stretch="Fill" Width="185" Height="185" />
+            <Image x:Name="public_Mouseover" Margin="519.1,522.3,836.7,103.9" Source="image/public_Mouseover.png" Stretch="Fill" Opacity="0" Width="185" Height="185"/>
+            <Image x:Name="public_Click" Margin="519.1,522.3,836.7,103.9" Source="image/public_O_choose.png" Stretch="Fill" Opacity="0" Width="185" Height="185"/>
+            <Image x:Name="commercial_non_click" Margin="813.1,522.3,542.7,103.9" Source="image/commercial_X_choose.png" Stretch="Fill" Width="185" Height="185"/>
+            <Image x:Name="commercial_Mouseover" Margin="813.1,522.3,542.7,103.9" Source="image/commercial_Mouseover.png" Stretch="Fill" Opacity="0" Width="185" Height="185"/>
+            <Image x:Name="commercial_Click" Margin="813.1,522.3,542.7,103.9" Source="image/commercial_O_choose.png" Stretch="Fill" Width="185" Height="185" Opacity="0"/>
+            <CheckBox x:Name="positive_checkbox" Content="CheckBox" HorizontalAlignment="Left" Height="166.6" Margin="528.7,185.1,0,0" VerticalAlignment="Top" Width="166.6" Opacity="0"/>
+            <CheckBox x:Name="negative_checkbox" Content="CheckBox" HorizontalAlignment="Left" Height="166.6" Margin="821.5,185.1,0,0" VerticalAlignment="Top" Width="166.6" Opacity="0"/>
+            <CheckBox x:Name="public_checkbox" Content="CheckBox" HorizontalAlignment="Left" Height="166.6" Margin="528.7,546.3,0,0" VerticalAlignment="Top" Width="166.6" Opacity="0"/>
+            <CheckBox x:Name="commercial_checkbox" Content="CheckBox" HorizontalAlignment="Left" Height="166.6" Margin="821.5,546.3,0,0" VerticalAlignment="Top" Width="166.6" Opacity="0" Checked="commercial_checkbox_Checked"/>
+            <Button Content="back" Margin="1055,725,289.2,37.2" Opacity="0" Click="Button_Click_1"/>
+            <Button Content="next" Margin="1284,725,57.2,37.2" Opacity="0" Click="Button_Click"/>
+    </Grid>
+    </Window>
