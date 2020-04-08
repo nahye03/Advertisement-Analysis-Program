@@ -1,7 +1,7 @@
 # Advertisement Analysis Program (Neuro-Marketing)
 # 광고 분석 프로그램 (뉴로 마케팅 이용)
 ![image](https://img.shields.io/badge/language-C%23-blue?style=plat&logo=Visual-Studio)
-![image](https://img.shields.io/badge/Lastest%20Update-200405-9cf)  
+![image](https://img.shields.io/badge/Latest%20Update-200405-9cf)  
 
 
 [요약](#-요약)  
