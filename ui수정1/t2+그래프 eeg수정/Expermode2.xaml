@@ -1,0 +1,26 @@
+﻿<Window x:Class="t2.Expermode2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:t2"
+        mc:Ignorable="d"
+        Title="Expermode2" ResizeMode="NoResize" WindowState="Maximized" Width="1537.6" Height="864.8">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="image/choice_ad.jpg"/>
+        </Grid.Background>
+        <Button x:Name="ad1" Content="Button" Margin="153,254,1184.2,452.2"  Opacity="0" Click="ad1_Click"/>
+        <Button x:Name="ad2" Content="Button" Margin="411,254,929.2,452.2"  Opacity="0" Click="ad2_Click"/>
+        <Button x:Name="ad3" Content="Button" Margin="673,254,667.2,452.2"  Opacity="0" Click="ad3_Click"/>
+        <Button x:Name="ad4" Content="Button" Margin="931,254,404.2,452.2"  Opacity="0" Click="ad4_Click"/>
+        <Button x:Name="ad5" Content="Button" Margin="1192,254,144.2,452.2"  Opacity="0" Click="ad5_Click"/>
+        <Button x:Name="ad6" Content="Button" Margin="153,501,1184.2,205.2"  Opacity="0" Click="ad6_Click"/>
+        <Button x:Name="ad7" Content="Button" Margin="411,501,929.2,205.2"  Opacity="0" Click="ad7_Click"/>
+        <Button x:Name="ad8" Content="Button" Margin="673,501,667.2,205.2" Opacity="0" Click="ad8_Click"/>
+        <Button x:Name="ad9" Content="Button" Margin="931,501,404.2,205.2"   Opacity="0" Click="ad9_Click"/>
+        <Button x:Name="ad10" Content="Button" Margin="1192,501,144.2,205.2"  Opacity="0" Click="ad10_Click"/>
+        <Button x:Name="back" Content="Button" Margin="1290,728,57.2,36.2" Click="back_Click" Opacity="0"/>
+
+    </Grid>
+</Window>
