@@ -1,0 +1,16 @@
+﻿<Window x:Class="t2.UserOpen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:t2"
+        mc:Ignorable="d"
+        Title="UserOpen" ResizeMode="NoResize" WindowState="Maximized" Width="1537.6" Height="864.8">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="image/userOpen.jpg"/>
+        </Grid.Background>
+        <TextBox Name="endResult" HorizontalAlignment="Left" Height="117" Margin="762,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254" FontSize="100" FontFamily="Matura MT Script Capitals" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button x:Name="Button" HorizontalAlignment="Left" Height="72" Margin="1290,724,0,0" VerticalAlignment="Top" Width="176" Opacity="0" Click="Button_Click"/>
+    </Grid>
+</Window>
