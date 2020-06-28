@@ -1,0 +1,584 @@
+C:\Users\김나혜\Desktop\t2\bin\Debug\t2.exe.config
+C:\Users\김나혜\Desktop\t2\bin\Debug\t2.exe
+C:\Users\김나혜\Desktop\t2\bin\Debug\t2.pdb
+C:\Users\김나혜\Desktop\t2\obj\Debug\t2.csprojResolveAssemblyReference.cache
+C:\Users\김나혜\Desktop\t2\obj\Debug\MainWindow.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\App.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\t2_MarkupCompile.cache
+C:\Users\김나혜\Desktop\t2\obj\Debug\t2_MarkupCompile.lref
+C:\Users\김나혜\Desktop\t2\obj\Debug\MainWindow.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\t2.g.resources
+C:\Users\김나혜\Desktop\t2\obj\Debug\t2.Properties.Resources.resources
+C:\Users\김나혜\Desktop\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Users\김나혜\Desktop\t2\obj\Debug\t2.exe
+C:\Users\김나혜\Desktop\t2\obj\Debug\t2.pdb
+C:\Users\김나혜\Desktop\t2\obj\Debug\Expermode1.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Expermode1.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Expermode2.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Expermode2.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad1.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad1.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad10.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad2.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad3.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad4.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad5.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad6.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad7.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad8.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad9.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Expermode3.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad10.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad2.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad3.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad4.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad5.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad6.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad7.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad8.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Ad9.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Expermode3.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Usermode1.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Analysis.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Result.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Usermode1.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Analysis.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Result.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Analysis1.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Analysis2.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Analysis3.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Analysis1.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Analysis2.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Analysis3.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\Expermode0.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\Expermode0.baml
+C:\Users\김나혜\Desktop\t2\obj\Debug\ExperResult.g.cs
+C:\Users\김나혜\Desktop\t2\obj\Debug\ExperResult.baml
+C:\Users\김나혜\Desktop\coc2019\t2\bin\Debug\t2.exe.config
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\t2.exe
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\t2.pdb
+C:\Users\김나혜\Desktop\coc2019\t2\bin\Debug\t2.exe
+C:\Users\김나혜\Desktop\coc2019\t2\bin\Debug\t2.pdb
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\t2.csprojResolveAssemblyReference.cache
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad10.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad2.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad3.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad4.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad5.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad6.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad7.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad8.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad9.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Analysis.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Analysis1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Analysis2.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Analysis3.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Expermode0.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Expermode1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Expermode2.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Expermode3.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\ExperResult.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\MainWindow.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Result.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Usermode1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\App.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\t2_MarkupCompile.cache
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\t2_MarkupCompile.lref
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad1.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad10.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad2.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad3.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad4.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad5.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad6.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad7.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad8.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Ad9.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Analysis.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Analysis1.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Analysis2.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Analysis3.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Expermode0.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Expermode1.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Expermode2.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Expermode3.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\ExperResult.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\MainWindow.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Result.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\Usermode1.baml
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\t2.g.resources
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\t2.Properties.Resources.resources
+C:\Users\김나혜\Desktop\coc2019\t2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Users\김나혜\Desktop\coc2019\t2_test2\bin\Debug\t2.exe.config
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\t2.exe
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\t2.pdb
+C:\Users\김나혜\Desktop\coc2019\t2_test2\bin\Debug\t2.exe
+C:\Users\김나혜\Desktop\coc2019\t2_test2\bin\Debug\t2.pdb
+C:\Users\김나혜\Desktop\coc2019\t2_test2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\김나혜\Desktop\coc2019\t2_test2\bin\Debug\WPFToolkit.dll
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\t2.csprojResolveAssemblyReference.cache
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad10.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad2.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad3.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad4.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad5.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad6.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad7.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad8.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad9.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Analysis.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Analysis1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Analysis2.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Analysis3.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Expermode0.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Expermode1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Expermode2.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Expermode3.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\ExperResult.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\MainWindow.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Result.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Usermode1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\App.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\t2_MarkupCompile.cache
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\t2_MarkupCompile.lref
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad1.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad10.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad2.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad3.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad4.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad5.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad6.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad7.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad8.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Ad9.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Analysis.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Analysis1.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Analysis2.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Analysis3.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Expermode0.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Expermode1.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Expermode2.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Expermode3.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\ExperResult.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\MainWindow.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Result.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\Usermode1.baml
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\t2.g.resources
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\t2.Properties.Resources.resources
+C:\Users\김나혜\Desktop\coc2019\t2_test2\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\bin\Debug\t2.exe.config
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\t2.exe
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\t2.pdb
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\bin\Debug\t2.exe
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\bin\Debug\t2.pdb
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\bin\Debug\WPFToolkit.dll
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\t2.csprojResolveAssemblyReference.cache
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad10.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad2.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad3.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad4.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad5.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad6.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad7.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad8.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad9.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Analysis.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Analysis1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Analysis2.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Analysis3.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Expermode0.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Expermode1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Expermode2.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Expermode3.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\ExperResult.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\MainWindow.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Result.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Usermode1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\App.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\t2_MarkupCompile.cache
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\t2_MarkupCompile.lref
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad1.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad10.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad2.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad3.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad4.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad5.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad6.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad7.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad8.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Ad9.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Analysis.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Analysis1.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Analysis2.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Analysis3.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Expermode0.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Expermode1.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Expermode2.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Expermode3.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\ExperResult.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\MainWindow.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Result.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\Usermode1.baml
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\t2.g.resources
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\t2.Properties.Resources.resources
+C:\Users\김나혜\Desktop\coc2019\t2+p300그래프 완성\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\bin\Debug\t2.exe.config
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\t2.exe
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\t2.pdb
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\bin\Debug\t2.exe
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\bin\Debug\t2.pdb
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\bin\Debug\WPFToolkit.dll
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\t2.csprojResolveAssemblyReference.cache
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad10.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad2.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad3.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad4.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad5.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad6.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad7.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad8.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad9.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Analysis.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Analysis1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Analysis2.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Analysis3.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Expermode0.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Expermode1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Expermode2.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Expermode3.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\ExperResult.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\MainWindow.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Result.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Usermode1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\App.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\t2_MarkupCompile.cache
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\t2_MarkupCompile.lref
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad1.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad10.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad2.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad3.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad4.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad5.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad6.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad7.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad8.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Ad9.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Analysis.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Analysis1.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Analysis2.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Analysis3.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Expermode0.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Expermode1.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Expermode2.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Expermode3.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\ExperResult.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\MainWindow.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Result.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\Usermode1.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\t2.g.resources
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\t2.Properties.Resources.resources
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 완성\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\bin\Debug\t2.exe.config
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\t2.exe
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\t2.pdb
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\bin\Debug\t2.exe
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\bin\Debug\t2.pdb
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\bin\Debug\WPFToolkit.dll
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\t2.csprojResolveAssemblyReference.cache
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad10.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad2.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad3.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad4.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad5.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad6.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad7.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad8.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad9.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Analysis.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Analysis1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Analysis2.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Analysis3.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Expermode0.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Expermode1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Expermode2.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Expermode3.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\ExperResult.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\MainWindow.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Result.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Usermode1.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\App.g.cs
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\t2_MarkupCompile.cache
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\t2_MarkupCompile.lref
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad1.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad10.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad2.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad3.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad4.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad5.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad6.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad7.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad8.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Ad9.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Analysis.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Analysis1.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Analysis2.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Analysis3.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Expermode0.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Expermode1.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Expermode2.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Expermode3.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\ExperResult.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\MainWindow.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Result.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\Usermode1.baml
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\t2.g.resources
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\t2.Properties.Resources.resources
+C:\Users\김나혜\Desktop\coc2019\t2+그래프 eeg수정\obj\Debug\t2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\bin\Debug\t2.exe.config
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\bin\Debug\t2.exe
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\bin\Debug\t2.pdb
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad1.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad10.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad2.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad3.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad4.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad5.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad6.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad7.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad8.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad9.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis1.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis2.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis3.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode0.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode1.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode2.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode3.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\ExperResult.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Result.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Usermode1.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\App.g.cs
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2_MarkupCompile.cache
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2_MarkupCompile.lref
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad1.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad10.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad2.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad3.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad4.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad5.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad6.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad7.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad8.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad9.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis1.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis2.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis3.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode0.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode1.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode2.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode3.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\ExperResult.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Result.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Usermode1.baml
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.g.resources
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.Properties.Resources.resources
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.csproj.CopyComplete
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.exe
+C:\Users\user\Desktop\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.pdb
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\bin\Debug\t2.exe.config
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\bin\Debug\t2.exe
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\bin\Debug\t2.pdb
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad1.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad10.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad2.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad3.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad4.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad5.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad6.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad7.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad8.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad9.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis1.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis2.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis3.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode0.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode1.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode2.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode3.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\ExperResult.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Result.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Usermode1.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\App.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2_MarkupCompile.cache
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2_MarkupCompile.lref
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad1.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad10.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad2.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad3.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad4.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad5.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad6.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad7.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad8.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Ad9.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis1.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis2.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Analysis3.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode0.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode1.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode2.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Expermode3.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\ExperResult.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Result.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\Usermode1.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.g.resources
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.Properties.Resources.resources
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.csproj.CopyComplete
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.exe
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\t2.pdb
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\ExperOpen.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\ExperOpen.baml
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\UserOpen.g.cs
+C:\Users\user\Desktop\임의완성\t2+그래프 eeg수정\t2+그래프 eeg수정\obj\Debug\UserOpen.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\bin\Debug\t2.exe.config
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\bin\Debug\t2.exe
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\bin\Debug\t2.pdb
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.csprojAssemblyReference.cache
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad1.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad10.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad2.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad3.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad4.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad5.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad6.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad7.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad8.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad9.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Analysis.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Analysis3.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode0.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode1.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode2.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode3.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\ExperOpen.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\ExperResult.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\MainWindow.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Result.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Usermode1.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\UserOpen.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\App.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\t2_MarkupCompile.cache
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\t2_MarkupCompile.lref
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad1.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad10.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad2.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad3.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad4.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad5.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad6.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad7.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad8.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad9.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Analysis.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Analysis3.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode0.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode1.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode2.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode3.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\ExperOpen.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\ExperResult.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\MainWindow.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Result.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Usermode1.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\UserOpen.baml
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.g.resources
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.Properties.Resources.resources
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.csproj.GenerateResource.cache
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.csproj.CoreCompileInputs.cache
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.csproj.CopyComplete
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.exe
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.pdb
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Checkbox.g.cs
+C:\Users\정민지\Desktop\ui수정1\t2+그래프 eeg수정\obj\Debug\Checkbox.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.csprojAssemblyReference.cache
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Analysis.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Analysis3.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Checkbox.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode0.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode1.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode2.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode3.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\ExperOpen.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\ExperResult.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\MainWindow.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Result.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Usermode1.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\UserOpen.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\App.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\t2_MarkupCompile.cache
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\t2_MarkupCompile.lref
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.exe
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.pdb
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\bin\Debug\t2.exe.config
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\bin\Debug\t2.exe
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\bin\Debug\t2.pdb
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad1.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad10.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad2.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad3.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad4.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad5.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad6.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad7.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad8.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad9.g.cs
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad1.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad10.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad2.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad3.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad4.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad5.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad6.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad7.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad8.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Ad9.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Analysis.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Analysis3.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Checkbox.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode0.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode1.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode2.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Expermode3.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\ExperOpen.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\ExperResult.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\MainWindow.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Result.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\Usermode1.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\UserOpen.baml
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.g.resources
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.Properties.Resources.resources
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.csproj.GenerateResource.cache
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.csproj.CoreCompileInputs.cache
+T:\COC5기\COC 5기\ui수정1\t2+그래프 eeg수정\obj\Debug\t2.csproj.CopyComplete
