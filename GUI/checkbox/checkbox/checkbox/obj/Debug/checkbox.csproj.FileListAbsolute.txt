@@ -1,0 +1,15 @@
+C:\Users\정민지\Desktop\GUI\checkbox\checkbox\checkbox\bin\Debug\checkbox.exe.config
+C:\Users\정민지\Desktop\GUI\checkbox\checkbox\checkbox\bin\Debug\checkbox.exe
+C:\Users\정민지\Desktop\GUI\checkbox\checkbox\checkbox\bin\Debug\checkbox.pdb
+C:\Users\정민지\Desktop\GUI\checkbox\checkbox\checkbox\obj\Debug\checkbox.csprojAssemblyReference.cache
+C:\Users\정민지\Desktop\GUI\checkbox\checkbox\checkbox\obj\Debug\MainWindow.g.cs
+C:\Users\정민지\Desktop\GUI\checkbox\checkbox\checkbox\obj\Debug\App.g.cs
+C:\Users\정민지\Desktop\GUI\checkbox\checkbox\checkbox\obj\Debug\checkbox_MarkupCompile.cache
+C:\Users\정민지\Desktop\GUI\checkbox\checkbox\checkbox\obj\Debug\checkbox_MarkupCompile.lref
+C:\Users\정민지\Desktop\GUI\checkbox\checkbox\checkbox\obj\Debug\MainWindow.baml
+C:\Users\정민지\Desktop\GUI\checkbox\checkbox\checkbox\obj\Debug\checkbox.g.resources
+C:\Users\정민지\Desktop\GUI\checkbox\checkbox\checkbox\obj\Debug\checkbox.Properties.Resources.resources
+C:\Users\정민지\Desktop\GUI\checkbox\checkbox\checkbox\obj\Debug\checkbox.csproj.GenerateResource.cache
+C:\Users\정민지\Desktop\GUI\checkbox\checkbox\checkbox\obj\Debug\checkbox.csproj.CoreCompileInputs.cache
+C:\Users\정민지\Desktop\GUI\checkbox\checkbox\checkbox\obj\Debug\checkbox.exe
+C:\Users\정민지\Desktop\GUI\checkbox\checkbox\checkbox\obj\Debug\checkbox.pdb
