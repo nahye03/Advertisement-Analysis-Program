@@ -86,8 +86,9 @@
     - 성공 광고와 실패 광고 기준은 뉴스를 통해 선정(실제로 매출 증가, 부적절한 광고로 기업 이미지 하락 등)  
     - 광고를 시청할 때 각 CH마다 샘플이 생김 (광고 10개 시청: 채널당 130개)  
     
-2. P300 기준 DB 생성
-![image](https://user-images.githubusercontent.com/45448731/78377184-405feb80-760a-11ea-81d4-b180760fecfe.png)
+2. P300 기준 DB 생성  
+![image](https://user-images.githubusercontent.com/45448731/78377184-405feb80-760a-11ea-81d4-b180760fecfe.png)  
+<br>
 
 ### 4. Data 분석, 채널 설정
 - __SPSS Statistics__ 를 이용.
