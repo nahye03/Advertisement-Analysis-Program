@@ -1,0 +1,12 @@
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\bin\win64\ActivateLicense.exe
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\bin\win64\ActivateLicense.pdb
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\examples_extra_prime\C#\ActivateLicense\obj\x64\Debug\ActivateLicense.csprojResolveAssemblyReference.cache
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\examples_extra_prime\C#\ActivateLicense\obj\x64\Debug\ActivateLicense.exe
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\examples_extra_prime\C#\ActivateLicense\obj\x64\Debug\ActivateLicense.pdb
+C:\Users\정민지\Desktop\뇌파완성\community-sdk-master\bin\win64\ActivateLicense.exe
+C:\Users\정민지\Desktop\뇌파완성\community-sdk-master\bin\win64\ActivateLicense.pdb
+C:\Users\정민지\Desktop\뇌파완성\community-sdk-master\examples_extra_prime\C#\ActivateLicense\obj\x64\Debug\ActivateLicense.csprojAssemblyReference.cache
+C:\Users\정민지\Desktop\뇌파완성\community-sdk-master\examples_extra_prime\C#\ActivateLicense\obj\x64\Debug\ActivateLicense.csproj.CoreCompileInputs.cache
+C:\Users\정민지\Desktop\뇌파완성\community-sdk-master\examples_extra_prime\C#\ActivateLicense\obj\x64\Debug\ActivateLicense.csproj.CopyComplete
+C:\Users\정민지\Desktop\뇌파완성\community-sdk-master\examples_extra_prime\C#\ActivateLicense\obj\x64\Debug\ActivateLicense.exe
+C:\Users\정민지\Desktop\뇌파완성\community-sdk-master\examples_extra_prime\C#\ActivateLicense\obj\x64\Debug\ActivateLicense.pdb
