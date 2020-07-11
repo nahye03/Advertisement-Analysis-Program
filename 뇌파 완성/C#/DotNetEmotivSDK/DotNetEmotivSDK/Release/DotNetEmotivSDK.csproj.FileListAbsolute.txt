@@ -1,0 +1,4 @@
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\examples_extra_prime\C#\build\Release\DotNetEmotivSDK.dll
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\examples_extra_prime\C#\build\Release\DotNetEmotivSDK.pdb
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\DotNetEmotivSDK\Release\DotNetEmotivSDK.dll
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\DotNetEmotivSDK\Release\DotNetEmotivSDK.pdb
