@@ -1,0 +1,5 @@
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\bin\win64\DotNetEmotivSDK.dll
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\bin\win64\DotNetEmotivSDK.pdb
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\obj\x64\Debug\DotNetEmotivSDK.csprojResolveAssemblyReference.cache
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\obj\x64\Debug\DotNetEmotivSDK.dll
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\obj\x64\Debug\DotNetEmotivSDK.pdb
