@@ -1,0 +1,11 @@
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\bin\win32\DotNetEmotivSDK.dll
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\bin\win32\DotNetEmotivSDK.pdb
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK.csprojResolveAssemblyReference.cache
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK.dll
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK.pdb
+C:\Users\정민지\Desktop\뇌파완성\community-sdk-master\bin\win32\DotNetEmotivSDK.dll
+C:\Users\정민지\Desktop\뇌파완성\community-sdk-master\bin\win32\DotNetEmotivSDK.pdb
+C:\Users\정민지\Desktop\뇌파완성\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK.csprojAssemblyReference.cache
+C:\Users\정민지\Desktop\뇌파완성\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK.csproj.CoreCompileInputs.cache
+C:\Users\정민지\Desktop\뇌파완성\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK.dll
+C:\Users\정민지\Desktop\뇌파완성\community-sdk-master\examples_extra_prime\C#\DotNetEmotivSDK\obj\x86\Debug\DotNetEmotivSDK.pdb
