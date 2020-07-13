@@ -1,0 +1,5 @@
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\bin\win32\EEGLogger.exe
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\bin\win32\EEGLogger.pdb
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Release\EEG_Data_Logger.csprojResolveAssemblyReference.cache
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Release\EEGLogger.exe
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Release\EEGLogger.pdb
