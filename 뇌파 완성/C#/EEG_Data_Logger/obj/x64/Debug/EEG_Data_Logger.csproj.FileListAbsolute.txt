@@ -1,0 +1,24 @@
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\bin\win64\EEGLogger.exe
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\bin\win64\EEGLogger.pdb
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEG_Data_Logger.csprojResolveAssemblyReference.cache
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEGLogger.exe
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEGLogger.pdb
+C:\Users\김나혜\Desktop\coc2019\뇌파 엑셀파일\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEGLogger.exe
+C:\Users\김나혜\Desktop\coc2019\뇌파 엑셀파일\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEGLogger.pdb
+C:\Users\user\Desktop\nahye\뇌파 엑셀파일\community-sdk-master\bin\win64\EEGLogger.exe
+C:\Users\user\Desktop\nahye\뇌파 엑셀파일\community-sdk-master\bin\win64\EEGLogger.pdb
+C:\Users\user\Desktop\nahye\뇌파 엑셀파일\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEG_Data_Logger.csprojAssemblyReference.cache
+C:\Users\user\Desktop\nahye\뇌파 엑셀파일\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEG_Data_Logger.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\nahye\뇌파 엑셀파일\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEG_Data_Logger.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\nahye\뇌파 엑셀파일\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEG_Data_Logger.csproj.CopyComplete
+C:\Users\user\Desktop\nahye\뇌파 엑셀파일\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEGLogger.exe
+C:\Users\user\Desktop\nahye\뇌파 엑셀파일\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEGLogger.pdb
+C:\Users\김나혜\Desktop\임의완성\nahye\뇌파 엑셀파일\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEG_Data_Logger.csproj.ResolveComReference.cache
+C:\Users\김나혜\Desktop\임의완성\nahye\뇌파 엑셀파일\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEGLogger.exe
+C:\Users\김나혜\Desktop\임의완성\nahye\뇌파 엑셀파일\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEGLogger.pdb
+C:\Users\김나혜\Desktop\coc2019\임의완성+결과창 수정\nahye\뇌파 엑셀파일\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEG_Data_Logger.csproj.ResolveComReference.cache
+C:\Users\김나혜\Desktop\coc2019\임의완성+결과창 수정\nahye\뇌파 엑셀파일\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEGLogger.exe
+C:\Users\김나혜\Desktop\coc2019\임의완성+결과창 수정\nahye\뇌파 엑셀파일\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEGLogger.pdb
+C:\Users\김나혜\Desktop\뇌파완성\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEG_Data_Logger.csproj.ResolveComReference.cache
+C:\Users\김나혜\Desktop\뇌파완성\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEGLogger.exe
+C:\Users\김나혜\Desktop\뇌파완성\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x64\Debug\EEGLogger.pdb
