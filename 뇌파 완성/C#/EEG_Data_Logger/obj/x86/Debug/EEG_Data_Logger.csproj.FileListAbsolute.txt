@@ -1,0 +1,15 @@
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\bin\win32\EEGLogger.exe
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\bin\win32\EEGLogger.pdb
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEG_Data_Logger.csprojResolveAssemblyReference.cache
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEGLogger.exe
+C:\Users\김나혜\Desktop\community-sdk-master\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEGLogger.pdb
+C:\Users\김나혜\Desktop\coc2019\community-sdk-master - 복사본\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEGLogger.exe
+C:\Users\김나혜\Desktop\coc2019\community-sdk-master - 복사본\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEGLogger.pdb
+C:\Users\김나혜\Desktop\coc2019\뇌파test\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEGLogger.exe
+C:\Users\김나혜\Desktop\coc2019\뇌파test\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEGLogger.pdb
+C:\Users\김나혜\Desktop\coc2019\뇌파+start+p300txt\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEGLogger.exe
+C:\Users\김나혜\Desktop\coc2019\뇌파+start+p300txt\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEGLogger.pdb
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEGLogger.exe
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEGLogger.pdb
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEGLogger.exe
+C:\Users\김나혜\Desktop\coc2019\뇌파+eeg test\community-sdk-master\examples_extra_prime\C#\EEG_Data_Logger\obj\x86\Debug\EEGLogger.pdb
