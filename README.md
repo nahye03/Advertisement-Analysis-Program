@@ -10,8 +10,8 @@
 [목적 및 필요성](#-목적-및-필요성)  
 [사용 하드웨어](#-사용-하드웨어)  
 [사용 프로그램](#-사용-프로그램)  
-[집중도 판단 방법](#-집중도-판단-방법)  
-[긍/부정도 판단 방법](https://github.com/minji-o-j/Advertisement-Analysis-Program/blob/master/README.md#-%EA%B8%8D%EB%B6%80%EC%A0%95%EB%8F%84-%ED%8C%90%EB%8B%A8-%EB%B0%A9%EB%B2%95)  
+[**집중도 판단 방법**](#-집중도-판단-방법)  
+[**긍/부정도 판단 방법**](https://github.com/minji-o-j/Advertisement-Analysis-Program/blob/master/README.md#-%EA%B8%8D%EB%B6%80%EC%A0%95%EB%8F%84-%ED%8C%90%EB%8B%A8-%EB%B0%A9%EB%B2%95)  
 [결과](#-결과)  
 [실제 구현 화면(wiki)](https://github.com/minji-o-j/Advertisement-Analysis-Program/wiki)
 
